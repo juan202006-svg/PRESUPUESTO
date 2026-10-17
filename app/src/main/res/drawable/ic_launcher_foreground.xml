@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Monedero minimalista con línea de presupuesto. -->
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M31,38 L73,38 Q79,38 79,44 L79,67 Q79,73 73,73 L35,73 Q29,73 29,67 L29,44 Q29,38 35,38 Z" />
+    <path android:fillColor="#FF103F35"
+        android:pathData="M34,62 L44,52 L51,57 L64,44 L74,54 L70,58 L64,52 L51,65 L44,60 L38,66 Z" />
+    <path android:fillColor="#FF82DEAB"
+        android:pathData="M38,44 L57,44 L57,47 L38,47 Z" />
+</vector>
